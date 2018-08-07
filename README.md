@@ -1,10 +1,9 @@
 # Booster Sessions
+
 Development sessions assets, descriptions, examples and homeworks
 
-## BS No. 1 - 29JUN2018 - Bots - Leo López
+## Sesiones
 
-Lorem ipsum
+- **BS1. 29JUN2018 - Bots - Leo López**
 
-## BS No. 2 - 27JUL2018 - Introducción a VueJS - César Ramírez
-
-Lorem ipsum
+- **BS2. 27JUL2018 - [Introducción a VueJS](./sessions/introduccion-a-vuejs.md)** - [César Ramírez](https://github.com/cesaramirez)
