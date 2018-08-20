@@ -65,4 +65,5 @@ A partir de todo lo visto en la presentación y empleando la mayor cantidad de c
 
 ## Resolución de Tareas
 Nombre - Enlace de Demo - Enlace de Repositorio
+- David Maravilla - [Demo](https://practical-colden-6507b2.netlify.com/) - [Repo](https://github.com/Bl4ckf4ll/vue-pokedex)
 
