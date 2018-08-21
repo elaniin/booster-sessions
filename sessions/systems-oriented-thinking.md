@@ -31,7 +31,7 @@ Describir las soluciones de a problemas como sistemas para facilitar la delegaci
 Modelar un sistema hasta el **nivel 0** que describa tu especialidad como un sistema (Ej. Desarrollor de APIs).
 
  - Describir al menos un proceso de este sistema a traves de un DP.
- - Describir amenos un flujo de datos a traves de un DFD usando el DP anterior.
+ - Describir al menos un flujo de datos a traves de un DFD usando el DP anterior.
 
 Requisitos:
 
