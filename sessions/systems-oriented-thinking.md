@@ -44,3 +44,7 @@ Requisitos:
  - [Systems Thinking](https://youtu.be/GPW0j2Bo_eY)
  - [The Fifth Discipline](https://en.wikipedia.org/wiki/The_Fifth_Discipline)
  - [Diagrama de flujo de datos (DFD)](https://www.lucidchart.com/pages/es/qué-es-un-diagrama-de-flujo-de-datos)
+ 
+## Resolución de Tareas
+Nombre - Enlace de Diagrama
+- César Ramírez - [Diagrama](https://drive.google.com/file/d/1OK8NoMSdq30kntcOvUCsLCxc7uEKEfwl/view?usp=sharing)
