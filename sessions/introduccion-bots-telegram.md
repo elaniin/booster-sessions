@@ -2,7 +2,7 @@
 
 Antes de entrar en materia, habría que saber primero qué es un bot. Pues los bots son pequeñas aplicaciones de software, generalmente integradas dentro de otra aplicación o de una plataforma online, que pueden encargarse de todo tipo de tareas automatizadas. Según cómo estén programados, a veces es posible interactuar con estos bots de diversas formas: 
 - Con comandos preestablecidos
-- o incluso teniendo una conversación en lenguaje normal y corriente, como si fuera una persona.
+- Teniendo una conversación en lenguaje normal y corriente, como si fuera una persona.
 
 Los bots, que ahora están muy de moda, son una funcionalidad que Telegram incorporó hace mucho tiempo. La diferencia entre los chatbots de esta aplicación y los de Facebook es que, al ser una API pública, cualquiera puede crearlos.
 
